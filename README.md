@@ -1,6 +1,7 @@
-# 🎈 Blank app template
+# ⇣ 🎥 YT-Link-Download
 
-A simple Streamlit app template for you to modify!
+Copy and paste Youtube video link to download audio or video, you can also select a segement in video
+or audio you want to download.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
@@ -15,5 +16,5 @@ A simple Streamlit app template for you to modify!
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run main.py
    ```
